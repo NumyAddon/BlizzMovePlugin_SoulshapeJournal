@@ -2,7 +2,7 @@
 ## Title: BlizzMove Plugin - Soulshape Journal
 ## Notes: Allows you to move the Soulshape Journal collection window with BlizzMove
 ## Author: Numy
-## IconTexture: 982414
+## IconTexture: Interface\Addons\BlizzMovePlugin_SoulshapeJournal\media\icon
 ## RequiredDeps: BlizzMove, SoulshapeJournal
 ## Version: @project-version@
 ## X-Curse-Project-ID: 714332
