@@ -1,4 +1,4 @@
-## Interface: @toc-version-retail@
+## Interface: @toc-version-retail@,@toc-version-midnight@
 ## Title: BlizzMove Plugin - Soulshape Journal
 ## Notes: Allows you to move the Soulshape Journal collection window with BlizzMove
 ## Author: Numy
